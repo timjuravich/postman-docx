@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'sablon'
+gem 'redcarpet'
+gem 'nokogiri'
+gem 'neatjson'
